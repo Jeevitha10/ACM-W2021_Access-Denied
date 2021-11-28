@@ -9,8 +9,8 @@
 </div>
 
 ## TO START THE APPLICATION
->>> npm install
->>> npm start
+##### npm install 
+##### npm start 
 
 ## TECHNOLOGY USED
 
