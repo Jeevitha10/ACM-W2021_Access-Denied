@@ -8,6 +8,9 @@
     
 </div>
 
+## PRESENTATION FILE
+[DRIVE LINK](https://docs.google.com/presentation/d/1-IdMFbeMgHjtSqdNC0St8wFra6mDI_ju6JoQMqiU6_w/edit?usp=sharing)
+
 ## TO START THE APPLICATION
 ##### npm install 
 ##### npm start 
