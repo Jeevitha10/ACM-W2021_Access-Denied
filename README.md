@@ -4,11 +4,13 @@
 
 <div align="center">
 
-![Home Page](https://drive.google.com/uc?id=1ayxhKGDHtysZPMqti6k4ZY072nm3I3MZ)
-
     A music app made with the help of React.js.
     
 </div>
+
+## TO START THE APPLICATION
+>>> npm install
+>>> npm start
 
 ## TECHNOLOGY USED
 
@@ -20,11 +22,3 @@
     * ###### [context API](https://reactjs.org/docs/context.html)
     * ###### [scss](https://sass-lang.com/)
    
-
-## Attribution
-    
-[Icons](www.flaticon.com) made by Freepikfrom 
-
-[Music](https://ncs.io/music) by NCS
-
-    Please make sure you fork the repository
